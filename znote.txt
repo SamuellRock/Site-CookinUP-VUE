@@ -1,0 +1,1 @@
+script sem Setup, pesquisar se é um Option
